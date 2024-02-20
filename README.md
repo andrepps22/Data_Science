@@ -17,7 +17,7 @@ Estudando de Ciência de dados na PUCRS
 Veja algums projetos pessoais:
 
 * [**Analise do fechamento do MXRF11**](Anlise_valor_fechamento_MXRF11_D+1.ipynb)
-* [**Experiência com sql**](https://github.com/andrepps22/SQL_Postgres/tree/main)
+* [**Experiência com consultas sql**](https://github.com/andrepps22/SQL_Postgres/tree/main)
 
 
 
