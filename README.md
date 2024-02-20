@@ -16,7 +16,7 @@ Estudando de Ciência de dados na PUCRS
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **
+* **Analise do fechamento do MXRF11()
 
 
 
