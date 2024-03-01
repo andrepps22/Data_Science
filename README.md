@@ -18,7 +18,7 @@ Veja algums projetos pessoais:
 
 * [**Analise do fechamento do MXRF11**](Anlise_valor_fechamento_MXRF11_D+1.ipynb)
 * [**Experiência com consultas sql**](https://github.com/andrepps22/SQL_Postgres/tree/main)
-* [**Analise de dados da Cidade Barcelona no Airbnb**](Analisando_os_Dados_da_Cidade_de_Barcelona_no_Airbnb.ipynb)
+* [**Analise de dados da Cidade Barcelona no Airbnb**](Analise_de_Dados_da_Cidade_de_Barcelona_no_Airbnb.ipynb)
 
 
 
